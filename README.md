@@ -2,12 +2,14 @@
 
 This is a very simple personal CV built entirely with **HTML only** — no external CSS or JavaScript. The goal of this mini-project is to practice semantic HTML, basic SEO, Open Graph meta tags for social sharing, and favicon usage.
 
+
 ## Project Overview
 
 This page serves as a minimalist digital resume. It showcases essential information like contact details, skills, education, and experience using clean, semantic HTML structure.
 
 You can view the live version of this project here:  
 [View CV Online](https://ChangoFurioso.github.io/FIRST-PROJECT/) 
+You can view the project page here: (https://roadmap.sh/projects/single-page-cv/)
 
 ## Implemented Features
 
